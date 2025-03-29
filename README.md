@@ -6,7 +6,8 @@ This is a React-based email application that allows users to send personalized e
 
 Note: The email design and content included in this project are proprietary and created specifically for a client, with the execption of the images used inside components. While the React Email components used here are reusable, the specific email design and layout are intended for personal or client use only and should not be copied or used for commercial purposes without permission.
 
-Company logo ©2009 Henry More
+Company logo Copyright:
+©2009 Henry More
 
 ## Features
 
