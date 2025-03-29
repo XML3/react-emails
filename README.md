@@ -52,7 +52,7 @@ Clone the repository to your local machine.
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/react-email-project.git
+git clone[repo]
 cd react-email-project
 
 # Install dependencies:
