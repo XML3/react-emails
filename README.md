@@ -2,7 +2,7 @@
 
 This is a React-based email application that allows users to send personalized emails. The project utilizes React Email for building reusable email components, Resend for email sending, and Next.js for the API routes. Currently, the project includes one email template specifically designed for a Sound Engineer Client, but the components used in the email are reusable and can be adapted for future emails.
 
-![Image](https://github.com/user-attachments/assets/bfd4d45a-f505-42c4-8203-fc10daa55d57)
+![email_camp](https://github.com/user-attachments/assets/bace99ad-3470-406c-8bd1-31050fa701b9)
 
 Note: The email design and content included in this project are proprietary and created specifically for a client, with the execption of the images used inside components. While the React Email components used here are reusable, the specific email design and layout are intended for personal or client use only and should not be copied or used for commercial purposes without permission.
 
